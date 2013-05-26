@@ -1,0 +1,10 @@
+.venv/
+build/
+dist/
+pyinstaller/
+
+*.bat
+*.docx
+*.log
+*.pyc
+*.sublime-workspace

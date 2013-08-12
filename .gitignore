@@ -1,10 +1,5 @@
 .venv/
-build/
-dist/
+bin/
 pyinstaller/
 
-*.bat
-*.docx
-*.log
-*.pyc
 *.sublime-workspace
